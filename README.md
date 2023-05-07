@@ -1,2 +1,2 @@
 # projeto-teste
-Testando primeiro porjeto de repositório
+Testando primeiro projeto de repositório
